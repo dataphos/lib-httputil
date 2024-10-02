@@ -4,6 +4,7 @@
 
 **Contributors:** [@andrijadukic-syntio](https://github.com/andrijadukic-syntio)
 
+
 ### ⚠ BREAKING CHANGES
 
 * initial implementation of the lib-httputil package ([#1](https://github.com/dataphos/lib-httputil/issues/1)) (#4)
